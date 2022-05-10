@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: http://hbmk.org.ua/sitemap.xml
+Host: hbmk.org.ua

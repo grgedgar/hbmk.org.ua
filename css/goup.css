@@ -1,0 +1,24 @@
+﻿#scrollTop{  
+	background:transparent;  
+	display:block; width:120px; height:100%;  
+	position:fixed; top:0%; left:0px;  
+	cursor:pointer;
+	opacity:0.8;
+	color: transparent;
+}
+#scrollTop img.img1{  
+	font-family: Arial;
+	font-size: 150%;
+	color: white;
+	background:transparent;
+	margin:0 0 0 0;
+	font-weight:bold;
+}
+#scrollTop p.hh1{  
+	font-family: Arial;
+	font-size: 150%;
+	margin:0 0 0 0;
+	font-weight:bold;
+}
+#scrollTop:hover{color:white; display:block; height:100%; opacity:0.6;background:url(../images/goup_background.png) 0 0; text-shadow: 1px 1px 2px black;
+}

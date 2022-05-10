@@ -1,0 +1,3 @@
+﻿//column_replacer
+{if($(window).width()<1169){document.getElementById("center_column_wrap").style.margin=("0 0 0 162px");window.onload=function(){document.getElementById("footer_list").style.margin=("25px 0 0 127px");document.getElementById("ftr_creadr").style.margin=("19px -10px 0 0");};};}
+window.onresize=function(){if($(window).width()>1169){document.getElementById("center_column_wrap").style.margin=("");document.getElementById("footer_list").style.margin=("");document.getElementById("ftr_creadr").style.margin=("");};if($(window).width()<1169){document.getElementById("center_column_wrap").style.margin=("0 0 0 162px");document.getElementById("footer_list").style.margin=("25px 0 0 127px");document.getElementById("ftr_creadr").style.margin=("19px -10px 0 0");};}
